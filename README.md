@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @agarciac76
-- 👀 I’m interested in R code, and cryptocurrencies
+- 👀 I’m interested in R code, and Finance
 
 <!---
 agarciac76/agarciac76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
